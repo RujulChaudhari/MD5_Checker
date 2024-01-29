@@ -158,6 +158,7 @@ This project is a simple file checker implemented in Python with a graphical use
      pyinstaller --onefile file_checker.py
      ```
    - This will create `build` and `dist` folders in your project directory, and the compiled `.exe` file will be in the `dist` folder.
+   - ![](https://i.imgur.com/he9pv80.png)
 
 3. **Run the .exe File:**
    - Locate the compiled `.exe` file in the `dist` folder and run it to check if it's working.
